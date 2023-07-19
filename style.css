@@ -120,7 +120,7 @@
 
  #services{
     margin: 10px;
-    display: flex;
+    /* display: flex; */
  }
  #services .box{
     border: 3px solid brown;
